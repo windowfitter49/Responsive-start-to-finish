@@ -26,3 +26,4 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/sass,windows
+prepros-6.config
